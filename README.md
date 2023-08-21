@@ -1,0 +1,5 @@
+# Skin_lesion_New
+Acquiring labeled data for multi-type skin lesions is a substantial problem due to the high expense associated with dermatologist involvement.
+considering the complicated nature of minor pixel fluctuations and irregularly shaped lesion features. Furthermore, the existence of different types of skin lesions showing these features frequently results in overlapping or neighboring occurrences,
+confounding the labeling process even further. To properly segment recognized pixels in skin lesion datasets, several models have been developed, with an emphasis on semantic segmentation and instance-based segmentation techniques. The purpose of this research is to compare the most successful semantic segmentation algorithms with the recently announced YOLO V8 model, assessing their performance and applicability for properly segmenting skin lesions.
+Because of its higher mean average precisions (mAPs) and quicker inference speed on the COCO dataset,YOLOV8 is now considered the state of the art model.
